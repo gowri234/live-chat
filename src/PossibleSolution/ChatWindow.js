@@ -1,5 +1,3 @@
-chatwindow.js; //
-
 import React, { Component } from "react";
 import AddMessage from "./AddMessage";
 import MessageHistory from "./MessageHistory";
