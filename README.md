@@ -13,7 +13,3 @@ Building a  React **live-Chat** (chat Application)
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
-
-<details>
-
-
