@@ -18,8 +18,6 @@ class AddMessage extends Component {
 
   handleSubmit = (event) => {
     event.preventDefault();
-
-    //Call the callback function that was passed to this component from ChatWindow
     this.props.onMessage(this.state.message);
   };
 
