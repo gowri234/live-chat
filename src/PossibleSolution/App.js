@@ -9,7 +9,7 @@ const users = [{ username: "Amy" }, { username: "Jon" }];
 
 class App extends Component {
   state = {
-    messages: [], //will hold this --> {usermame: 'Amy', text: 'a'}
+    messages: [], 
   };
   onMessage = (username, message) => {
     const newMessage = {
